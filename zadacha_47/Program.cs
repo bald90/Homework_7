@@ -42,10 +42,12 @@ int EnterNumber(string message)                   //мы передаем тек
 //1. получить от пользователя м и н
 int m = EnterNumber("введите значение m: ");
 int n = EnterNumber("введите значение n: ");
+int leftRange = -100;
+int rightRange = 100;
 
 //2. создаем двумерный массив и заполняем
 
-double[,] matrix = CreateRandomArray(m, n, 1, 10);                //так создается двумерный массив обратить внимание на [,]
+double[,] matrix = CreateRandomArray(m, n, leftRange, rightRange);               
 
 //3. вывести массив
 ShowArray(matrix);
