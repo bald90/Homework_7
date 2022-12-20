@@ -25,7 +25,7 @@ double[,] CreateRandomArray(int rows, int columns, int leftRange, int rightRange
     {
         for (int j = 0; j < columns; j++)
         {
-            array[i, j] = rand.NextDouble()*10;
+            array[i, j] = new Random().Next(leftRange, rightRange) + new Random().NextDouble();
 
         }
     }
