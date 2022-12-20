@@ -11,7 +11,7 @@ void ShowArray(double[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            Console.Write($"{array[i, j]} ");
+            Console.Write($"{Math.Round(array[i, j], 2)} ");
         }
         Console.WriteLine();
     }
@@ -26,6 +26,7 @@ double[,] CreateRandomArray(int rows, int columns, int leftRange, int rightRange
         for (int j = 0; j < columns; j++)
         {
             array[i, j] = rand.NextDouble()*10;
+
         }
     }
     return array;
