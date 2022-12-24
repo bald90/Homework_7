@@ -1,0 +1,15 @@
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\bin\Debug\net6.0\zadacha_52.exe
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\bin\Debug\net6.0\zadacha_52.deps.json
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\bin\Debug\net6.0\zadacha_52.runtimeconfig.json
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\bin\Debug\net6.0\zadacha_52.dll
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\bin\Debug\net6.0\zadacha_52.pdb
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\zadacha_52.csproj.AssemblyReference.cache
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\zadacha_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\zadacha_52.AssemblyInfoInputs.cache
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\zadacha_52.AssemblyInfo.cs
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\zadacha_52.csproj.CoreCompileInputs.cache
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\zadacha_52.dll
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\refint\zadacha_52.dll
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\zadacha_52.pdb
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\zadacha_52.genruntimeconfig.cache
+C:\Users\krugl\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками С#\Homework\Homework_7\zadacha_52\obj\Debug\net6.0\ref\zadacha_52.dll
